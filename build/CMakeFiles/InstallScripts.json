@@ -1,8 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/lain/Dev/space/build/cmake_install.cmake",
-		"/home/lain/Dev/space/build/third_party/imgui/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
